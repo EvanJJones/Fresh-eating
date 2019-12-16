@@ -1,29 +1,27 @@
-# Create React Express App
+# Memory Game
 
-## About This Boilerplate
+## Purpose
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+A recipe search engine that allows you to search for recipes while specifying allergy and diet preferences. You can then login and save recipes to your favorites where you can tag and sort your favorite recipes.
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+## Instructions
 
-## Starting the app locally
+The box to the left of the searchbar is dietary preferences, the checkboxes below are intolerances. Choose your preferences then search for a food item you would ike a recipe for. The recipes will display below, click on the title to go directly to the recipes. You can login on the upper right and make an account on the same page. After taht you can save recipes to favorites, then go to favorites to see your saved recipes.
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+On the favorites page you can create tags in the text box, after than you can use the dropdown on each recipe card to assign a tag to them, they can have as many tags as you'd like. You can then filter your recipes by using the dropdown on the top. It will only display recipes that have the selected tag.
 
-```
-npm install
-```
+## Images
 
-This should install node modules within the server and the client folder.
+![Screenshot](./Screenshot1.png)
 
-After both installations complete, run the following command in your terminal:
+## Author
 
-```
-npm start
-```
+Evan Jones
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+## Technologies Used
 
-## Deployment (Heroku)
+MongoDB, Express, React, Node.js
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+## Contact
+
+evanjones@fastmail.net
