@@ -19,10 +19,10 @@ https://fresh-eating.herokuapp.com/
 
 ## Authors
 
-https://github.com/EvanJJones
-https://github.com/lav7patel
-https://github.com/NataliejU
-https://github.com/rcompuder
+* https://github.com/EvanJJones
+* https://github.com/lav7patel
+* https://github.com/NataliejU
+* https://github.com/rcompuder
 
 ## Technologies Used
 
