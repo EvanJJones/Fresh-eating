@@ -10,7 +10,7 @@ The box to the left of the searchbar is dietary preferences, the checkboxes belo
 
 On the favorites page you can create tags in the text box, after than you can use the dropdown on each recipe card to assign a tag to them, they can have as many tags as you'd like. You can then filter your recipes by using the dropdown on the top. It will only display recipes that have the selected tag.
 
-## Link to Deplloyed Version
+## Link to Deployed Version
 https://fresh-eating.herokuapp.com/
 
 ## Images
